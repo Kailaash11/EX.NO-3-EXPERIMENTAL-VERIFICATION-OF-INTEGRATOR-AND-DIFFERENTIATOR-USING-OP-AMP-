@@ -36,7 +36,8 @@ T ≥ Rf Cf
 The integrator is most commonly used in analog computers and ADC and signal-wave shaping circuits.
 CIRCUIT DIAGRAM
 ## CIRCUIT DIAGRAM
-<img width="698" height="423" alt="image" src="https://github.com/user-attachments/assets/f007b349-f96e-42d3-acd3-a37119fc16fc" />
+
+![WhatsApp Image 2025-11-29 at 11 48 41_47987e73](https://github.com/user-attachments/assets/7bbac89f-32d0-4d83-87a2-b9e05222cf39)
 
 
 ## MODEL GRAPH
@@ -61,15 +62,11 @@ We get , R1 =	and hence Rf =
 
 
 ## TABULATION
-| Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
-|----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
-		
+![WhatsApp Image 2025-11-29 at 11 49 24_5a59138e](https://github.com/user-attachments/assets/ccb66103-ff51-48f6-87b8-3188606680b7)
 
----
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-11-29 at 11 46 44_f438fcc6](https://github.com/user-attachments/assets/3c7c2faa-369a-42a7-989b-cea5104eb1a4)
 
 
 ---
@@ -109,8 +106,7 @@ Here the negative sign indicates that the output voltage is 180 0 out of phase w
 The differentiator is most commonly used in wave shaping circuits to detect high frequency components in an input signal and also as a rate–of–change detector in FM modulators.
 
 ## CIRCUIT DIAGRAM
-<img width="760" height="414" alt="image" src="https://github.com/user-attachments/assets/6ee3caf5-d5de-4c38-8ebe-7ff5add6c9cd" />
-
+![WhatsApp Image 2025-11-29 at 11 51 39_c2b31f79](https://github.com/user-attachments/assets/8dd8257c-ef58-432c-9a50-9c5e23448628)
 
 
 ## MODEL GRAPH
@@ -149,13 +145,11 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 
  ## TABULATION
-| Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
-|----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
-		
+![WhatsApp Image 2025-11-29 at 11 52 11_fc07dde4](https://github.com/user-attachments/assets/b1628139-5620-45aa-ab36-b9fced18ed58)
+
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-11-29 at 11 46 44_da34b843](https://github.com/user-attachments/assets/780e7170-d7d8-4be3-9ffc-b4e58d8fe852)
 
 ---
 
